@@ -61,10 +61,6 @@ topbar_color                              : "#fdfa03"
 topbar_transparency                       : 0
 topbar_title_color                        : "#000000"
 
-cover_image                               : assets/background.png                    # Replace with alternative image path or image URL.
-cover_overlay_color                       : "#fdfa03"
-cover_overlay_transparency                : 0.1
-
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "#fdfa03"
