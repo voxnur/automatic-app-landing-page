@@ -57,8 +57,8 @@ features                                  :
 
 
 # Theme Settings
-topbar_color                              : "#fdfa03"
-topbar_transparency                       : 0
+topbar_color                              : "#000000"
+topbar_transparency                       : 0.1
 topbar_title_color                        : "#000000"
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
