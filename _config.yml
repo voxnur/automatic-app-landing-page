@@ -60,7 +60,7 @@ features                                  :
 topbar_color                              : "#fdfa03"
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
+cover_image                               : assets/background.png                    # Replace with alternative image path or image URL.
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
