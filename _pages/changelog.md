@@ -157,6 +157,7 @@ We improved the menu
 April 5, 2020
 
 New: Drinks counter! From now on you can see which and how many drinks you have drunk in the last 24 hours (and in total). Compare yourself with your friends! Keep track of how much you have drunk. How much beer will you drink in the next week? Find out now!
+
 <br>
 
 ## **Version 1.1.11**
