@@ -60,8 +60,6 @@ features                                  :
 topbar_color                              : "#fdfa03"
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : assets/background.png                    # Replace with alternative image path or image URL.
-
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "#fdfa03"
