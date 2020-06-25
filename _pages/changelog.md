@@ -8,7 +8,7 @@ June 17 , 2020
 
 Today we have these changes for you
 
-- Now also in polish
+- Now also in Polish
 
 
 Please leave a review if you are happy with the changes :)
